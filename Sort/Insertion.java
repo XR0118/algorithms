@@ -1,3 +1,5 @@
+package Sort;
+
 public class Insertion{
 
     // In each iteration i, swap a[i] with each larger entry to its left
